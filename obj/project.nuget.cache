@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwW6NNPosvv96K+0a75yKafeXtqoGIpPKDbuQgw33xG8qHgwAkcNUaCyHv+2gv46Nt+Nv72WgOrQRKh9mO51fw==",
+  "success": true,
+  "projectFilePath": "D:\\Rafael\\ProdutoMvc\\ProdutoMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.8\\microsoft.aspnetcore.jsonpatch.7.0.8.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.8\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.8.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
