@@ -1,0 +1,8 @@
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.csproj.AssemblyReference.cache
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.AssemblyInfoInputs.cache
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.AssemblyInfo.cs
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.csproj.CoreCompileInputs.cache
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.RazorAssemblyInfo.cache
+D:\etec\ApiProdutos\ProdutoMvc\obj\Debug\net7.0\ProdutoMvc.RazorAssemblyInfo.cs

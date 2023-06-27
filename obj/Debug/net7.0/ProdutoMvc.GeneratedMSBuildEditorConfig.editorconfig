@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProdutoMvc
 build_property.RootNamespace = ProdutoMvc
-build_property.ProjectDir = d:\Rafael\ProdutoMvc\
+build_property.ProjectDir = D:\etec\ApiProdutos\ProdutoMvc\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Rafael\ProdutoMvc
+build_property.MSBuildProjectDirectory = D:\etec\ApiProdutos\ProdutoMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Rafael/ProdutoMvc/Views/Home/Index.cshtml]
+[D:/etec/ApiProdutos/ProdutoMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Rafael/ProdutoMvc/Views/Home/Privacy.cshtml]
+[D:/etec/ApiProdutos/ProdutoMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Rafael/ProdutoMvc/Views/Shared/Error.cshtml]
+[D:/etec/ApiProdutos/ProdutoMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Rafael/ProdutoMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/etec/ApiProdutos/ProdutoMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Rafael/ProdutoMvc/Views/_ViewImports.cshtml]
+[D:/etec/ApiProdutos/ProdutoMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Rafael/ProdutoMvc/Views/_ViewStart.cshtml]
+[D:/etec/ApiProdutos/ProdutoMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Rafael/ProdutoMvc/Views/Shared/_Layout.cshtml]
+[D:/etec/ApiProdutos/ProdutoMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-62vlcitfkk
