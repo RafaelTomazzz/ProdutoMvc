@@ -3,6 +3,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = System.TimeSpan.FromSeconds(3600);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -13,10 +18,6 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-builder.Services.AddSession(options =>
-{
-    options.IdleTimeout = System.TimeSpan.FromSeconds(3600);
-});
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

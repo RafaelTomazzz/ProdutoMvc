@@ -1,0 +1,11 @@
+D:\Rafael\ProdutoMvc\Publish\ProdutoMvc.exe
+D:\Rafael\ProdutoMvc\Publish\appsettings.Development.json
+D:\Rafael\ProdutoMvc\Publish\appsettings.json
+D:\Rafael\ProdutoMvc\Publish\ProdutoMvc.dll
+D:\Rafael\ProdutoMvc\Publish\ProdutoMvc.deps.json
+D:\Rafael\ProdutoMvc\Publish\ProdutoMvc.runtimeconfig.json
+D:\Rafael\ProdutoMvc\Publish\ProdutoMvc.pdb
+D:\Rafael\ProdutoMvc\Publish\Microsoft.AspNetCore.JsonPatch.dll
+D:\Rafael\ProdutoMvc\Publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Rafael\ProdutoMvc\Publish\Newtonsoft.Json.dll
+D:\Rafael\ProdutoMvc\Publish\Newtonsoft.Json.Bson.dll

@@ -1,0 +1,25 @@
+@model ProdutoMvc.Models.ProdutoViewModel
+@{
+    ViewBag.Title = "Detalhes do Produto";
+}
+<h2>Detalhes do Produto</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>@Html.DisplayNameFor(model => model.Id)</dt>
+        <dd>@Html.DisplayFor(model => model.Id)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Nome)</dt>
+        <dd>@Html.DisplayFor(model => model.Nome)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Valor)</dt>
+        <dd>@Html.DisplayFor(model => model.Valor)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Validade)</dt>
+        <dd>@Html.DisplayFor(model => model.Validade)</dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id}) |
+    @Html.ActionLink("Retornar", "Index")
+</p>
